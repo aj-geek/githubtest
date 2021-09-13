@@ -1,0 +1,10 @@
+Hello
+
+git init --> git initiate 
+
+git status --> to check the untracked files
+
+git add . --> all the untracked files will be added to stage
+or instead of all files add individual file names
+
+git commit -m "message" --> m stands for message
