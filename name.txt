@@ -12,3 +12,22 @@ git commit -m "message" --> m stands for message
 
 /*Restore*/
 git restore --staged filename
+
+
+/*Reset */
+
+git reset hash
+
+/*stash */ 
+Moving files to back stage.
+git stash
+
+To get back to stage
+git stash pop
+
+To delete the back stage files
+git stash clear
+
+
+
+
