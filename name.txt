@@ -28,6 +28,18 @@ git stash pop
 To delete the back stage files
 git stash clear
 
+***********
+
+GIT HUB
+
+***********
 
 
+Connect to repo
+
+--->>>> git remote add origin(name) linkofrepo
+--->>>> git remote -v
+
+To push/pull
+git push origin(name)
 
