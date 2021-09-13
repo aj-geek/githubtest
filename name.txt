@@ -41,5 +41,5 @@ Connect to repo
 --->>>> git remote -v
 
 To push/pull
-git push origin(name)
+git push origin(name) branchname
 
